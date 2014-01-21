@@ -1,0 +1,175 @@
+Here are some Informations about the upcoming Hotfix in a few days.
+
+1.05.01
+============================
+- added villagesigns
+- added some new sidewalk models with bicycle-way.
+- added new citysector "Bahnhofsviertel" at Meschede
+- added new "roadname" trafficsigns at Meschede like: Akazienweg, Beethovenstrasse, Schubertstrasse, Mozartstrasse etc...
+- added new Roadmarkers like "Haltelinie and Stoplightmarkers"
+- added own PBO "fal_trafficsigns" to Modfolder @DayZSauerland
+- New model "traffic trap"
+- New german trafficigns added
+- some roads smoothed
+- Terrain "Meschede" reworked
+- some sidewalks changed and smoothed in Meschede
+- added some more Details at Strelingen, Garbow and Süderbarup
+
+- removed Bugs
+* fences on Roads
+* Buildings and Sidewalks on roads in Meschede removed
+* Meschede in some sectors reworked
+* Some "Texture not found" errors fixed.
+* removed some missplaced vegetation
+* Some unusual buildings fixed
+* Missplaced objects fixed at Moosbach
+* texture blck_sum.pac not found fixed
+* texture ca\buildings\misc\zavora.pac fixed
+* texture ca\misc\more_anim.01.pac fixed
+* texture ca\misc\phonebox_south.pac fixed
+* texture ca\data\zavora.pac fixed
+* texture ca\misc\sidewalks\zamkova.pac fixed
+* some other errors fixed
+* some trees and bushes on roads fixed
+* some framkiller sectors fixed
+* some Roadcorners fixed
+
+
+----------------------------
+1.05.02
+============================
+- added some agricultural roads near Osterholz and Schüren
+- added the first Waysigns in Fahrenbrecht like "Osterholz 14km ---->"
+
+- missplaced buildings in Meschede fixed
+- some unusual roads in Meschede fixed
+- missplaced Objects in Seedorf fixed
+- Vegetation from road Seedorf <--> Calle removed#
+- road from Seedorf to Calle smoothed
+- Objects from roads near Schmallenberg removed
+- missing road in Fahrenbrecht fixed
+- missplaced vegetation in Fahrenbrecht graveyard removed
+- missplaced objects in Meschede fixed.
+- missplaced road in Meschede fixed
+- missing roadtile in Meschede fixed
+- some Roads/Places fixed
+- Fence in a Barn at Pos 041/119 fixed
+- vegetaton in Pub at position 061/107 fixed
+- Pole at 090/100 removed
+- Meschede: Tulpenweg reworked
+
+- config.cpp for fal_trafficsigns reworked
+- config.cpp for buildings3 reworked
+
+
+----------------------------
+1.05.03
+============================
+-Seedorf: missplaced buildings changed or fixed
+-Seedorf: some Items on Roads fixed
+-Wilderness: some misslaced vegetation fixed
+-Süderbarup: some missplaced objects fixed
+
+
+----------------------------
+1.06.00
+============================
+
+- missplaced buildings changed or fixed
+- some Items on Roads fixed
+- Wilderness: some misslaced vegetation fixed
+- Süderbarup: some missplaced objects fixed
+
+----------------------------
+1.06.01
+============================
+
+- Arnsberg reworked
+- Some bugs in Arnsberg fixed
+- Some Framekillers reworked
+- some vegetation fixed
+- added some houses in Wilderness
+
+----------------------------
+1.06.02
+============================
+- Arnsberg: new Bridge added
+- Arnsberg: Industrial added
+- Arnsberg: Hospitals added
+- Arnsberg: Vegetation reworked
+- Map: Some Bugs removed
+- Map: Some flickering Models reworked
+
+----------------------------
+1.07.00 (DayZSauerland_Epoch]
+============================
+- Arnsberg: Hospital added
+- Arnsberg: some industrial added
+- Arnsberg: Junkyard added
+- Arnsberg: some missplaced houses fixed
+- Arnsberg: some missplaced objects fixed
+- Strechted outside map texture fixed
+- some more details added
+- Groundtexture reworked
+
+
+----------------------------
+1.07.01 Hotfix
+============================
+- A Pond fixed
+- Schueren: Roadtile in Frontyard fixed
+- missing roadtiles fixed
+- Fuelstations fixed (replaced with Fuelstation placeholder)
+- Some missplaced objects fixed
+- some missplaced houses fixed
+- Industrialyard at Arnsberg: some buildings fixed
+- Railroadcrossing fixed at Worldspace: 6605|21582 fixed
+- Fence on street at worldspace: 6748|21456 fixed
+- doubleplaced Trafficsigns (50) fixed at worldspace 6749|20962 fixed
+- T-Crossing at worldspace 5617|16748 fixed
+- Meschede: Petrolstation fixed
+- added some bushes, clutter and trees at the roads near Garbow
+
+----------------------------
+1.07.02 regular coming Update
+============================
+- Highway A46: Bushes on Roadtile delted
+- Arnsberg Industrial Yard: Flying Objects fixed
+- Arnsberg Petrolstation "Arnsberger Strasse": Garage to high, fixed
+- Arnsberg Agricultural: Trees on agr. road fixed
+- Arbsberg Castle Schwarzenfels: Missplaced roadpolygon fixed
+- Meschede Industrial yard: trees and bushes in the pub fixed, replaced building
+- Meschede Industrial Yard Main Road: Overlapping roadtiles fixed
+- Meschede City: Flying houses fixed (Not all yet, i think!)
+- Meschede City construction Yard: flying Crane fixed
+- Meschede City Highway: Sidewalks at road. Deleted
+- Meschede City Trainstatipon: Missplaced Sidewalks deleted
+- Meschede: The Castle above meschede have now a road to it
+- Uhlenbusch Centrum: Firedepartemend reworked
+- Uhlenbusch Centrum: Shop reworked
+- Uhlenbusch Centrum: Road near shop smoothed
+- Uhlenbusch Centrum: Some Trees replaced
+- Oeventrop: Railroadcrossng reworked
+- Oeventrop: Overlapping Road fixed
+- Oeventrop: Missplaced buildings fixed
+- Old Arifield: Terrain raised and smoothed
+- Old Airfield: Hangars are to low, fixed
+- Old Airfield Barracks: Unusual Houses fixed and replaced
+- Old Arifield Town: Missplaced Patrolstation fixed
+- Old Airfield Town: Some flying houses fixed
+- Old Airfield Tower: Trees in Building deleted
+- Old Airfield Town: floating fuel storage tank 
+- Old Airfield Town: Missplaced House fixed
+- Remblinghausen Town: Missplaced fences deleted
+- Buersfeld Wilderness: Tree on roads fixed
+- All Petrolstations: Garage to low, fixed
+- Road from near Meschede smoothed
+- More detailed the road between niederbergbach and oberbergbach
+- Fence in a Barn fixed
+- Objects on Road near Meschede fixed
+- Trees in a Barn at Worldspace 21800|7600 fixed
+
+
+
+
+
